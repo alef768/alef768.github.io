@@ -1,5 +1,12 @@
+@font-face {
+  font-family: "Minecraft Seven";
+  src: url("Minecraft Seven.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 body{
-  font-family: Minecraft, sans-serif;
+  font-family: "Minecraft Seven", sans-serif;
   padding: 25px;
   background-image: url("https://i.imgur.com/11TPSVn.png");
   background-color: rgba(7, 19, 40, 1);
